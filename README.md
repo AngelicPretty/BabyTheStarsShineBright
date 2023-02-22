@@ -1,2 +1,2 @@
 # BabyTheStarsShineBright
-Lolita主题
+WordPress Lolita Theme
